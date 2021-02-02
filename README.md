@@ -7,7 +7,7 @@ This project just sample app for 1st interview state.
   - Product Page
   - Search Currency
   - View Rates for each Currecy
-  - Coverted *need to use purchase API Key*
+  - Coverted ( API Not avalible only UI *need to use purchase API Key*)
   - SnapShot test
   - Unit-Tests
 
