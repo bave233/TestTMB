@@ -13,6 +13,6 @@ This project just sample app for 1st interview state.
 
 # How to build!
 
-  - Exist the Xcode Version 12.1
+  - Exist the Xcode Version 12.3
   - Install Cocoapods first
   - Try to build it!!!
